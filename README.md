@@ -13,12 +13,6 @@ A Node.js + Express backend that allows users to split group expenses fairly and
 
 ---
 
-## 🚀 Live Demo (Deployed API)
-
-🔗 **Base URL**: `https://<your-deployed-url>.com/api`
-
----
-
 ## 📌 Features
 
 ### ✅ Core Features
