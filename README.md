@@ -60,6 +60,7 @@ A Node.js + Express backend that allows users to split group expenses fairly and
   "description": "Dinner at restaurant",
   "paid_by": "Ramesh"
 }
+```
 
 -------------------API STRUCTURE-----------------
 
